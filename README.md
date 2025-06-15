@@ -17,5 +17,5 @@ Program ini adalah sebuah permainan sederhana berbasis terminal yang menggunakan
 
 
 4. Link Foto Output program : https://drive.google.com/drive/folders/1FzXMIlNFuQ6NQfODqIeykgLTkcN3kx-2?usp=sharing
-5. Link Video persentasi Youtube : 
+5. Link Video persentasi Youtube : https://youtu.be/Gzb24fAQGO8?si=LtdGVMnfvwDDskhe
 
